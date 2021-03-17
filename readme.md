@@ -8,12 +8,12 @@ Pretty great! I'm a fullstack dev with verifiable experience building web applic
 ## Work:
 I work as a front-end team lead at an agency banking startup based in Lagos, Nigeria. I built v1 and v2 of the startup's flagship agent web application which serves thousands of agents and has processed millions worth of transactions.
 
-I am actively interviewing for front-end or fullstack roles though so shoot me a line if you like what you see.
+I am actively interviewing for remote front-end or fullstack roles though so shoot me a line if you like what you see.
 
 ## Currently working on:
-Challenge ng - I'm trying to help new developers land jobs by completing challenges created by Nigerian start-ups.
+Challenge ng - I'm trying to help new developers land jobs by completing challenges created by Nigerian start-ups. This app incorporates a couple other things like verified junior friendly job postings, product spotlight etc.
 
-This is a MERN stack app with the backend completed and deployed via heroku. Building the front-end with React/Redux and Styled-Components. I hope to go live this month.
+This is a MERN stack app with the backend completed and deployed via heroku. Building for the web with React/Redux and Styled-Components & for mobile (Android) with React Native.
 
 ## Learning:
 I love to learn and I'm pretty good at it. I like to build even more complex projects than the ones included in my courses, this helps me nail down my skills. I'm currently taking a microservices with node js course on Udemy, I hope to come out of this course with pretty decent microservices architecture skills.
