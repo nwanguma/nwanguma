@@ -28,4 +28,4 @@ JavaScript, web development, music, sports.
 Always open for a conversation, email me at nwangumat@hotmail.com
 
 ## Random fact:
-I love to share music, my favourit(est) song of all time is the bittersweet symphony by the verve.
+I love to share music, my favourit(est) song of all time is bittersweet symphony by the verve.
