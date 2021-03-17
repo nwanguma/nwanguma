@@ -3,7 +3,7 @@ Sometime in 2018 after a typical day of writing reports and sending vague threat
 
 Okay, now ask me how that worked out?
 
-Pretty great! I'm a fullstack dev with verifiable experience building web applications mainly with React, Redux and everything else in between. I can center divs and style my apps with a variety of methods - I'm currently in love with CSS-in-JS (styled-components). I also have experience building RESTAPIs with Node JS, Express JS and MongoDB. I have worked with Vue JS, built my current portfolio with Gatsby JS, deployed apps with netlify and Heroku.
+Pretty great! I'm a fullstack dev with verifiable experience building web applications mainly with React, Redux and everything else in between. I can center divs and style my apps with a variety of methods - I'm currently in love with CSS-in-JS (styled-components). I also have experience building RESTAPIs with Node JS, Express JS and MongoDB. I have worked with Vue JS, built my current portfolio with Gatsby JS, deployed apps with Netlify and Heroku.
 
 ## Work:
 I work as a front-end team lead at an agency banking startup based in Lagos, Nigeria. I built v1 and v2 of the startup's flagship agent web application which serves thousands of agents and has processed millions worth of transactions.
