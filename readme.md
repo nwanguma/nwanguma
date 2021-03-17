@@ -14,7 +14,7 @@ I am actively interviewing for front-end or fullstack roles though so shoot me a
 He/him.
 
 ## Currently working on:
-Challenge.ng - I'm trying to help new developers land jobs by completing challenges created by Nigerian start-ups.
+Challenge ng - I'm trying to help new developers land jobs by completing challenges created by Nigerian start-ups.
 
 This is a MERN stack app with the backend completed and deployed via heroku. Building the front-end with React/Redux and Styled-Components. I hope to go live this month.
 
