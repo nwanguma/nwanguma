@@ -10,22 +10,16 @@ I work as a front-end team lead at an agency banking startup based in Lagos, Nig
 
 I am actively interviewing for front-end or fullstack roles though so shoot me a line if you like what you see.
 
-## Pronouns:
-He/him.
-
 ## Currently working on:
 Challenge ng - I'm trying to help new developers land jobs by completing challenges created by Nigerian start-ups.
 
 This is a MERN stack app with the backend completed and deployed via heroku. Building the front-end with React/Redux and Styled-Components. I hope to go live this month.
 
 ## Learning:
-I'm not sure the term self-taught developer applies to me because I've learned most of what I know by taking courses on Udemy. I love to learn and I'm pretty good at it. I like to build even more complex projects than the ones included in my courses, this helps me nail down my skills. I'm currently taking a microservices with node js course on Udemy, I hope to come out of this course with pretty decent microservices architecture skills.
+I love to learn and I'm pretty good at it. I like to build even more complex projects than the ones included in my courses, this helps me nail down my skills. I'm currently taking a microservices with node js course on Udemy, I hope to come out of this course with pretty decent microservices architecture skills.
 
 ## Writing:
 I write about my experience going from code noobie to landing my first tech role and a bunch of other stuff [here](https://nwanguma.medium.com/)
-
-## Looking to collaborate on:
-I'm open to working on cool and exciting projects that solve real problems.
 
 ## Interests:
 JavaScript, web development, music, sports.
