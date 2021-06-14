@@ -1,5 +1,5 @@
 ## About:
-Sometime in 2018 after a typical day of writing reports and sending vague threats via email to colleagues at my old job, I thought "hmmm this is beyond boring" then decided switching careers to tech/software development was the cure. I quit at the end of the year and spent 2019 learning to code.
+Sometime in 2018 after a typical day of writing reports and sending vague threats via email to colleagues at my old job, I thought "this is beyond boring" then decided to switch careers to tech/software development. I quit at the end of the year and spent 2019 learning to code.
 
 Okay, now ask me how that worked out?
 
