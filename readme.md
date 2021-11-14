@@ -3,12 +3,7 @@ Sometime in 2018 after a typical day of writing reports and sending vague threat
 
 Okay, now ask me how that worked out?
 
-Pretty great! I'm a fullstack dev with verifiable experience building web applications mainly with React, Redux and everything else in between. I can center divs and style my apps with a variety of methods - I'm currently in love with CSS-in-JS (styled-components). I also have experience building RESTAPIs with Node JS, Express JS and MongoDB. I have worked with Vue JS, built my current portfolio with Gatsby JS, deployed apps with Netlify and Heroku.
-
-## Work:
-I work as a front-end team lead at an agency banking startup based in Lagos, Nigeria. I built v1 and v2 of the startup's flagship agent web application which serves thousands of agents and has processed millions worth of transactions.
-
-I am actively interviewing for remote front-end or fullstack roles though so shoot me a line if you like what you see.
+Pretty great! I'm a fullstack dev with verifiable experience building web applications mainly with React, Redux and everything else in between. I can center divs and style my apps with a variety of methods - I'm currently in love with CSS-in-JS (styled-components). I also have experience building RESTAPIs with Node JS, Express JS and MongoDB.
 
 ## Currently working on:
 Challenge ng - I'm trying to help new developers land jobs by completing challenges created by Nigerian start-ups. This app incorporates a couple other things like verified junior friendly job postings, product spotlight etc.
@@ -25,7 +20,4 @@ I write about my experience going from code noobie to landing my first tech role
 JavaScript, web development, music, sports.
 
 ## Say hello:
-Always open for a conversation, email me at nwangumat@hotmail.com
-
-## Random fact:
-I love to share music, my favourit(est) song of all time is bittersweet symphony by the verve.
+Always open for a conversation, email me at nwangumat@hotmail.com.
